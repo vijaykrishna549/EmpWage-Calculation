@@ -1,2 +1,2 @@
 # EmpWage-Calculation
-From_UseCase1 _toUseCase9 
+From_UseCase1 _toUseCase6
